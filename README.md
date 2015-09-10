@@ -25,7 +25,10 @@
   <li>It is suggested that you complete the task on your local machine and only COMMIT and PUSH once when you have finished</li>
 </ul>
 <h3>The project folder and its contents</h3>
-<p>The project folder contains three folders which you should use to perform this task. The <emphasize>design file</emphasize> folder contains the Adobe Photoshop PSD file with the design for the banner.</p>
+<p>The project folder contains three folders which you should use to perform this task.</p>
+<ul>
+  <li>The <i>design folder</i> contains the Adobe Photoshop PSD file with the design for the banner.</li>
+</ul>
 <h3>What to do when you finish</h3>
 <p>Please email your Sky Works contact and let them know that you have completed the task.</p>
 <ul>
