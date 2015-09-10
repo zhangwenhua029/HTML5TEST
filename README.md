@@ -31,6 +31,15 @@
   <li>The <strong><i>fonts</strong> folder</i> contains the fonts used by the Adobe Photoshop PSD.</li>
   <li>The <strong><i>src</strong> folder</i> contains the HTML web page template.</li>
 </ul>
+<h4>Guidance on the task</h4>
+<p>The following points are listed to aid your development of the banner and to help you complete the task.</p>
+<ul>
+  <li>Export all your images before starting the development of HTML, CSS and JavaScript</li>
+  <li>Load all external scripts in the HEAD section of the HTML template</li>
+  <li>Use a CSS file to style the layout of the HTML</li>
+  <li>Make use of the PreloadJS load queue to preload all images before starting any animations</li>
+  <li>Call a <strong><i>setTimeout</i></strong> implementation to make sure that all animations have stopped after 15 seconds</li>
+</ul>
 <h3>What to do when you finish</h3>
 <p>Please email your Sky Works contact and let them know that you have completed the task.</p>
 <ul>
