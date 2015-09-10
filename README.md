@@ -5,7 +5,7 @@
   <li>Web banner web reference: <a href="https://en.wikipedia.org/wiki/Web_banner">wikipedia</a></li>
   <li>Please use the PSD file supplied for guidance on placement of graphics and the graphics that you should use</li>
   <li>The duration of the banner is limited to 15 seconds</li>
-  <li>You have 3 hours to complete this task. You must start on the hour. For example you start at 6pm and submit your work by 9pm on the same day.</li>
+  <li>You have 3 hours to complete this task. You must start on the hour (performing a PULL). For example you start at 6pm and submit your work by 9pm on the same day.</li>
 </ul>
 <h3>JavaScript libraries</h3>
 <p>Please use the following JavaScript libraries to develop the banner.</p>
@@ -21,7 +21,7 @@
 <ul>
   <li>You should be set up as a <strong>contributor</strong> for this project in GitHub before starting.</li>
   <li>You will need to PULL this project into your local workspace environment.</a></li>
-  <li>When you have completed the task, you wil need to ADD your files, COMMIT your changes and PUSH your work to this server</li>
+  <li>When you have completed the task, you will need to ADD your files, COMMIT your changes and PUSH your work to this server</li>
   <li>It is suggested that you complete the task on your local machine and only COMMIT and PUSH once when you have finished</li>
 </ul>
 <h3>The project folder and its contents</h3>
