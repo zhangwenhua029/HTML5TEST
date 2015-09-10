@@ -17,3 +17,10 @@
 <p>When you visit the JavaScript library websites, please refer to the getting started web page sections for guidance on how to complete your task.</p>
 <h4>Please note..</h4>
 <p>You are not required to build an object oriented solution. The simplier you make the programming, the easier it will be to complete the task.</p>
+<h3>Getting started</h3>
+<ul>
+  <li>You should be set up as a contributor in GitHub before starting.</li>
+  <li>You will need to PULL this project into your local workspace environment.</a></li>
+  <li>When you have completed the task, you wil need to ADD your files, COMMIT your changes and PUSH your work to this server</li>
+</ul>
+
