@@ -23,4 +23,9 @@
   <li>You will need to PULL this project into your local workspace environment.</a></li>
   <li>When you have completed the task, you wil need to ADD your files, COMMIT your changes and PUSH your work to this server</li>
 </ul>
+<h3>What to do when you finish</h3>
+<p>Please email your Sky Works contact and let them know that you have completed the task.</p>
+<ul>
+  <li>Your contact is: James Cotti (<a href="mailto:james.cotti@sky.uk>click to send an email..</a>")</li>
+</ul>
 
