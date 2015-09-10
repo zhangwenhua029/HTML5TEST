@@ -29,7 +29,7 @@
 <ul>
   <li>The <strong><i>design</strong> folder</i> contains the Adobe Photoshop PSD file with the design for the banner.</li>
   <li>The <strong><i>fonts</strong> folder</i> contains the fonts used by the Adobe Photoshop PSD.</li>
-  <li>The <strong><i>src</strong> folder</i> contains the HTML web page template.</li>
+  <li>The <strong><i>src</strong> folder</i> contains the HTML web page banner files (HTML, JavaScript, CSS & images).</li>
 </ul>
 <h4>Guidance on the task</h4>
 <p>The following points are listed to aid your development of the banner and to help you complete the task.</p>
