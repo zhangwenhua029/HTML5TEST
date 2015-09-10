@@ -29,6 +29,7 @@
 <ul>
   <li>The <strong><i>design</strong> folder</i> contains the Adobe Photoshop PSD file with the design for the banner.</li>
   <li>The <strong><i>fonts</strong> folder</i> contains the fonts used by the Adobe Photoshop PSD.</li>
+  <li>The <strong><i>src</strong> folder</i> contains the HTML web page template.</li>
 </ul>
 <h3>What to do when you finish</h3>
 <p>Please email your Sky Works contact and let them know that you have completed the task.</p>
