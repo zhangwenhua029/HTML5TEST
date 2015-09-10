@@ -17,3 +17,4 @@
   <li>Link to website: <a href="http://createjs.com/tweenjs">TweenJS</a></li>
 </ul>
 <p>When you visit the JavaScript library websites, please refer to the getting started web page sections for guidance on how to complete your task.</p>
+<p>You are not required to build an object oriented solution. The simplier you make the programming, the easier it will be to complete the task.</p>
