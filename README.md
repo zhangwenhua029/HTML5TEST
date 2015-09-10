@@ -26,6 +26,6 @@
 <h3>What to do when you finish</h3>
 <p>Please email your Sky Works contact and let them know that you have completed the task.</p>
 <ul>
-  <li>Your contact is: James Cotti (<a href="mailto:james.cotti@sky.uk>click to send an email..</a>")</li>
+  <li>Your contact is: James Cotti (<a href="mailto:james.cotti@sky.uk">click to send an email..</a>")</li>
 </ul>
 
