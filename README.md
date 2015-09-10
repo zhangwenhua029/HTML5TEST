@@ -5,7 +5,7 @@
   <li>Web banner web reference: <a href="https://en.wikipedia.org/wiki/Web_banner">wikipedia</a></li>
   <li>Please use the PSD file supplied for guidance on placement of graphics and the graphics that you should use</li>
   <li>The duration of the banner is limited to 15 seconds</li>
-  <li>You have 3 hours to complete this task. You must start on the hour. For example you start at 1pm and submit your work by 5pm on the same day.</li>
+  <li>You have 3 hours to complete this task. You must start on the hour. For example you start at 6pm and submit your work by 9pm on the same day.</li>
 </ul>
 <h3>JavaScript libraries</h3>
 <p>Please use the following JavaScript libraries to develop the banner.</p>
