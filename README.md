@@ -6,6 +6,7 @@
   <li>Web banner web reference: <a href="https://en.wikipedia.org/wiki/Web_banner">wikipedia</a></li>
   <li>Please use the PSD file supplied for guidance on placement of graphics and the graphics that you should use</li>
   <li>The duration of the banner is limited to 15 seconds</li>
+  <li>You have 4 hours to complete this test</li>
 </ul>
 <br>
 <h3>JavaScript libraries</h3>
@@ -15,3 +16,4 @@
   <li>Link to website: <a href="http://createjs.com/preloadjs">PreloadJS</a></li>
   <li>Link to website: <a href="http://createjs.com/tweenjs">TweenJS</a></li>
 </ul>
+<p>When you visit the JavaScript library websites, please refer to the getting started web page sections for guidance on how to complete your task.</p>
