@@ -22,7 +22,7 @@
   <li>You should be set up as a <strong>contributor</strong> for this project in GitHub before starting.</li>
   <li>You will need to PULL this project into your local workspace environment.</a></li>
   <li>When you have completed the task, you will need to ADD your files, COMMIT your changes and PUSH your work to this server</li>
-  <li>You should create a text file in the project folder with your name in it as a time stamp when you start.</li>
+  <li>You should create a text file in the project folder with your name in it as a time stamp when you start. Commit this file and push it to the repository. It will act as a time stamp to say you have started working on the task</li>
   <li>It is suggested that you complete the task on your local machine and only COMMIT and PUSH once when you have finished</li>
 </ul>
 <h3>The project folder and its contents</h3>
