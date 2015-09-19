@@ -1,3 +1,26 @@
-@charset "UTF-8";
-/* CSS Document */
 
+body {
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+
+#myCanvas {
+	width: 300px;
+	height: 250px;
+	border: 1px solid #666666;
+	overflow: hidden;
+	margin: auto;
+	background-color: #FFFFFF;
+	position: absolute;
+}
+
+#guide {
+	background-image: url(../images/guide_03.jpg);
+	background-repeat: no-repeat;
+	width: 300px;
+	height: 250px;
+	top: 0px;
+	left: 0px;
+	opacity: 0.5;
+	position: absolute;
+}
